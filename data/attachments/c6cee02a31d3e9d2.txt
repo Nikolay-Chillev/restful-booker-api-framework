@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Jody","lastname":"King","totalprice":79,"depositpaid":false,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-27"},"additionalneeds":"Dinner"}

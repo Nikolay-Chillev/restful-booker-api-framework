@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":2047,"booking":{"firstname":"<script>alert('xss')</script>","lastname":"Weaver","totalprice":444,"depositpaid":true,"bookingdates":{"checkin":"2026-04-08","checkout":"2026-04-09"},"additionalneeds":"Lunch"}}

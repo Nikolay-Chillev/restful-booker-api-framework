@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5603,"booking":{"firstname":"Keith","lastname":"Jones","totalprice":1040,"depositpaid":false,"bookingdates":{"checkin":"2020-01-01","checkout":"2020-01-05"},"additionalneeds":"None"}}

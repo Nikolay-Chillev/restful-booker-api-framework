@@ -1,3 +1,0 @@
-PATCH https://restful-booker.herokuapp.com/booking/2012
-Time: 0.04s
-Body: {'firstname': 'Unauthorized'}

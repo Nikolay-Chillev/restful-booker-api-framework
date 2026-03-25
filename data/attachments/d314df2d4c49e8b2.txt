@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5645,"booking":{"firstname":"Teresa","lastname":"White","totalprice":142,"depositpaid":true,"bookingdates":{"checkin":"2026-04-18","checkout":"2026-04-30"},"additionalneeds":"Wi-Fi"}}

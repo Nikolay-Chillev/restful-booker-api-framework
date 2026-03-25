@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5612,"booking":{"firstname":"Jessica","lastname":"Cohen","totalprice":393,"depositpaid":true,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-04-29"},"additionalneeds":"None"}}

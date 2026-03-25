@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":1932,"booking":{"firstname":"O'Brien","lastname":"Mccarty","totalprice":277,"depositpaid":true,"bookingdates":{"checkin":"2026-04-20","checkout":"2026-04-23"},"additionalneeds":"Breakfast"}}

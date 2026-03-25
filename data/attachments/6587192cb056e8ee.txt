@@ -1,5 +1,0 @@
-INFO     api_clients.base_client:base_client.py:36 POST https://restful-booker.herokuapp.com/booking
-INFO     api_clients.base_client:base_client.py:51 Response: 200 (0.04s)
-INFO     utils.schema_validator:schema_validator.py:29 Schema validation passed for create_booking_schema.json
-INFO     api_clients.base_client:base_client.py:36 DELETE https://restful-booker.herokuapp.com/booking/2024
-INFO     api_clients.base_client:base_client.py:51 Response: 201 (0.04s)

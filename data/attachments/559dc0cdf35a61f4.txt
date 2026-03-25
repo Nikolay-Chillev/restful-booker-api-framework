@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5733,"booking":{"firstname":"Megan","lastname":"Charles","totalprice":338,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Parking"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5718,"booking":{"firstname":"SearchTestUser","lastname":"Porter","totalprice":1455,"depositpaid":true,"bookingdates":{"checkin":"2026-04-20","checkout":"2026-04-26"},"additionalneeds":"Lunch"}}

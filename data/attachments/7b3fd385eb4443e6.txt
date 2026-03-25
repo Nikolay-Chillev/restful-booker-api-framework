@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":1937,"booking":{"firstname":"Jean-Pierre","lastname":"Hawkins","totalprice":763,"depositpaid":false,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-20"},"additionalneeds":"None"}}

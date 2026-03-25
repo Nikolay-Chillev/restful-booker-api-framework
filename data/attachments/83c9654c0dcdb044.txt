@@ -1,0 +1,3 @@
+2026-03-25 09:50:16 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/auth
+2026-03-25 09:50:16 | INFO     | api_clients.base_client | Response: 200 (0.07s)
+2026-03-25 09:50:16 | INFO     | utils.schema_validator | Schema validation passed for auth_schema.json

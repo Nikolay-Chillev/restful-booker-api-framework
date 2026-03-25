@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"<script>alert('xss')</script>","lastname":"Maldonado","totalprice":1250,"depositpaid":true,"bookingdates":{"checkin":"2026-03-30","checkout":"2026-04-08"},"additionalneeds":"Parking"}

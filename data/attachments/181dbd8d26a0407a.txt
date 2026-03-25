@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5650,"booking":{"firstname":"Angela","lastname":"Watson","totalprice":1202,"depositpaid":false,"bookingdates":{"checkin":"2026-04-17","checkout":"2026-04-27"},"additionalneeds":"Dinner"}}

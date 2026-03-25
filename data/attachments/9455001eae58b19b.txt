@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5774,"booking":{"firstname":"David","lastname":"Pennington","totalprice":233,"depositpaid":true,"bookingdates":{"checkin":"2026-03-28","checkout":"2026-04-08"},"additionalneeds":"None"}}

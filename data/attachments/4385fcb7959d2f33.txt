@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5637,"booking":{"firstname":"Jacob","lastname":"Griffin","totalprice":520,"depositpaid":false,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-05-07"},"additionalneeds":"Breakfast"}}

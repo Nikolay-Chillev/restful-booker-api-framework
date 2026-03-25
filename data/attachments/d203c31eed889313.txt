@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5590,"booking":{"firstname":"Muller","lastname":"Ray","totalprice":564,"depositpaid":false,"bookingdates":{"checkin":"2026-04-21","checkout":"2026-04-24"},"additionalneeds":"Breakfast"}}

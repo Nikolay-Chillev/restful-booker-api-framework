@@ -1,0 +1,2 @@
+2026-03-25 09:50:04 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/auth
+2026-03-25 09:50:05 | INFO     | api_clients.base_client | Response: 200 (0.07s)

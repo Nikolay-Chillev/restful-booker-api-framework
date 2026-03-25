@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":1969,"booking":{"firstname":"Karen","lastname":"Anderson","totalprice":1447,"depositpaid":false,"bookingdates":{"checkin":"2026-04-14","checkout":"2026-04-22"},"additionalneeds":"Parking"}}

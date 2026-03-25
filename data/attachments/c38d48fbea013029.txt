@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5585,"booking":{"firstname":"Mary-Jane","lastname":"Mcneil","totalprice":198,"depositpaid":false,"bookingdates":{"checkin":"2026-04-10","checkout":"2026-04-13"},"additionalneeds":"Dinner"}}

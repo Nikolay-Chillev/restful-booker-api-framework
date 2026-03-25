@@ -1,0 +1,2 @@
+INFO     api_clients.base_client:base_client.py:36 GET https://restful-booker.herokuapp.com/booking
+INFO     api_clients.base_client:base_client.py:51 Response: 200 (0.22s)

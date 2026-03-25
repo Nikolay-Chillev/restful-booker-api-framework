@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5537,"booking":{"firstname":"Christina","lastname":"Cook","totalprice":474,"depositpaid":true,"bookingdates":{"checkin":"2026-04-17","checkout":"2026-04-27"},"additionalneeds":"Lunch"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5746,"booking":{"firstname":"'; DROP TABLE bookings; --","lastname":"Shaw","totalprice":348,"depositpaid":false,"bookingdates":{"checkin":"2026-04-06","checkout":"2026-04-11"},"additionalneeds":"None"}}

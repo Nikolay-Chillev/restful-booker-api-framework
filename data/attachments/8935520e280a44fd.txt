@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5722,"booking":{"firstname":"SearchTestUser","lastname":"Blanchard","totalprice":1018,"depositpaid":true,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-04-26"},"additionalneeds":"Wi-Fi"}}

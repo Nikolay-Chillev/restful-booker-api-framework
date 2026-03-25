@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5655,"booking":{"firstname":"Cindy","lastname":"Wells","totalprice":1402,"depositpaid":true,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-29"},"additionalneeds":"Wi-Fi"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Christian","lastname":"Baldwin","totalprice":669,"depositpaid":true,"bookingdates":{"checkin":"2026-03-31","checkout":"2026-04-02"},"additionalneeds":"None"}

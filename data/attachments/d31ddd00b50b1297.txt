@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5599,"booking":{"firstname":"Kimberly","lastname":"Norman","totalprice":981,"depositpaid":true,"bookingdates":{"checkin":"2030-01-01","checkout":"2030-12-31"},"additionalneeds":"Lunch"}}

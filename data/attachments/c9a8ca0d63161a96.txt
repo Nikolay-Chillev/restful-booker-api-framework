@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":1941,"booking":{"firstname":"Adrian","lastname":"Navarro","totalprice":294,"depositpaid":false,"bookingdates":{"checkin":"2020-01-01","checkout":"2020-01-05"},"additionalneeds":"None"}}

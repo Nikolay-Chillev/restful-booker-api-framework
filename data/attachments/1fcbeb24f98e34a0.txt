@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":5678,"booking":{"firstname":"Whitney","lastname":"Clark","totalprice":1497,"depositpaid":false,"bookingdates":{"checkin":"2026-04-14","checkout":"2026-04-17"},"additionalneeds":"Lunch"}}
