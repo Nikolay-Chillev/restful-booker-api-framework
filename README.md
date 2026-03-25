@@ -31,6 +31,7 @@ Enterprise-grade API test automation framework for the [Restful Booker API](http
 - **Multi-Environment Config** — Configurable via .env files per environment
 - **Structured Logging** — Request/response logging with configurable levels
 - **Retry Logic** — Exponential backoff for transient failures
+- **Known Bug Documentation** — Negative tests document API bugs with Allure attachments
 
 ---
 
