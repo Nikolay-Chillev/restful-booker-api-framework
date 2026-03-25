@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"; rm -rf /","lastname":"Stanley","totalprice":1374,"depositpaid":true,"bookingdates":{"checkin":"2026-04-09","checkout":"2026-04-11"},"additionalneeds":"None"}

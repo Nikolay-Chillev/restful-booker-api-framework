@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":709,"booking":{"firstname":"Muller","lastname":"Clarke","totalprice":1358,"depositpaid":true,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-05-06"},"additionalneeds":"Wi-Fi"}}

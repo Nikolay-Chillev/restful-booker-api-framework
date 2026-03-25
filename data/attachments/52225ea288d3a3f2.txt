@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":874,"booking":{"firstname":"Meredith","lastname":"Velez","totalprice":567,"depositpaid":false,"bookingdates":{"checkin":"2026-04-11","checkout":"2026-04-16"},"additionalneeds":"Breakfast"}}

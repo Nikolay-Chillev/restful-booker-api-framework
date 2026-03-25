@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Timothy","lastname":"Turner","totalprice":876,"depositpaid":true,"bookingdates":{"checkin":"2026-03-30","checkout":"2026-04-12"},"additionalneeds":"Dinner"}

@@ -1,0 +1,8 @@
+INFO     api_clients.base_client:base_client.py:36 POST https://restful-booker.herokuapp.com/booking
+INFO     api_clients.base_client:base_client.py:51 Response: 200 (0.01s)
+INFO     tests.conftest:conftest.py:136 Created booking with ID: 909
+INFO     api_clients.base_client:base_client.py:36 PATCH https://restful-booker.herokuapp.com/booking/909
+INFO     api_clients.base_client:base_client.py:51 Response: 403 (0.01s)
+INFO     api_clients.base_client:base_client.py:36 DELETE https://restful-booker.herokuapp.com/booking/909
+INFO     api_clients.base_client:base_client.py:51 Response: 201 (0.00s)
+INFO     tests.conftest:conftest.py:54 Cleaned up booking ID: 909

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"OnlyThisChanged","lastname":"Hester","totalprice":904,"depositpaid":true,"bookingdates":{"checkin":"2026-03-29","checkout":"2026-04-12"},"additionalneeds":"Breakfast"}

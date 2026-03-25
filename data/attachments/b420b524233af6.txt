@@ -1,0 +1,5 @@
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 200 (0.00s)
+2026-03-25 11:42:02 | INFO     | utils.schema_validator | Schema validation passed for create_booking_schema.json
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/918
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 201 (0.01s)

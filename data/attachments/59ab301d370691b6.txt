@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":924,"booking":{"firstname":"Jorge","lastname":"Delgado","totalprice":552,"depositpaid":false,"bookingdates":{"checkin":"2026-03-28","checkout":"2026-04-07"},"additionalneeds":"Lunch"}}

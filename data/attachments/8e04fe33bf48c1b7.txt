@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Patricia","lastname":"Rhodes","totalprice":843,"depositpaid":false,"bookingdates":{"checkin":"2026-04-05","checkout":"2026-04-06"},"additionalneeds":"Lunch"}

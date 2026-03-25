@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":907,"booking":{"firstname":"Charles","lastname":"Townsend","totalprice":293,"depositpaid":true,"bookingdates":{"checkin":"2026-04-03","checkout":"2026-04-12"},"additionalneeds":"Dinner"}}

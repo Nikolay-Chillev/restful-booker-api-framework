@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Nicole","lastname":"Hickman","totalprice":915,"depositpaid":true,"bookingdates":{"checkin":"2026-04-07","checkout":"2026-04-18"},"additionalneeds":"None"}

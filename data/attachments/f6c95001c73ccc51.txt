@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":931,"booking":{"firstname":"'; DROP TABLE bookings; --","lastname":"Tran","totalprice":364,"depositpaid":true,"bookingdates":{"checkin":"2026-04-03","checkout":"2026-04-13"},"additionalneeds":"Lunch"}}

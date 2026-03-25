@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":773,"booking":{"firstname":"Jenna","lastname":"Nunez","totalprice":487,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Lunch"}}

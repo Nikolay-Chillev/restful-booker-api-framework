@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":710,"booking":{"firstname":"Jean-Pierre","lastname":"Goodman","totalprice":930,"depositpaid":true,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-23"},"additionalneeds":"Lunch"}}

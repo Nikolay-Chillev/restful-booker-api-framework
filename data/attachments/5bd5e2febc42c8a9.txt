@@ -1,3 +1,0 @@
-PATCH https://restful-booker.herokuapp.com/booking/682
-Time: 0.01s
-Body: {'firstname': 'PatchedName', 'totalprice': 1234}

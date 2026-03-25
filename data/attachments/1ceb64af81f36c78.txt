@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"'; DROP TABLE bookings; --","lastname":"Jackson","totalprice":1059,"depositpaid":true,"bookingdates":{"checkin":"2026-03-28","checkout":"2026-04-11"},"additionalneeds":"None"}

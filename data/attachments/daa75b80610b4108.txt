@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":866,"booking":{"firstname":"Jean-Pierre","lastname":"Cordova","totalprice":973,"depositpaid":false,"bookingdates":{"checkin":"2026-04-14","checkout":"2026-04-28"},"additionalneeds":"Dinner"}}

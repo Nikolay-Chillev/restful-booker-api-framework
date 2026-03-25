@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Sara","lastname":"Dixon","totalprice":755,"depositpaid":false,"bookingdates":{"checkin":"2026-04-21","checkout":"2026-04-22"},"additionalneeds":"Breakfast"}

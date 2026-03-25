@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":914,"booking":{"firstname":"Lori","lastname":"Hughes","totalprice":82,"depositpaid":false,"bookingdates":{"checkin":"2026-04-08","checkout":"2026-04-16"},"additionalneeds":"Wi-Fi"}}

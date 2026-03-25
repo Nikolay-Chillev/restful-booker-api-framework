@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":701,"booking":{"firstname":"Mary","lastname":"Sanchez","totalprice":999999,"depositpaid":true,"bookingdates":{"checkin":"2026-04-07","checkout":"2026-04-17"},"additionalneeds":"Breakfast"}}

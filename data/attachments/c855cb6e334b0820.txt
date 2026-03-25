@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":884,"booking":{"firstname":"Lisa","lastname":"Hill","totalprice":847,"depositpaid":true,"bookingdates":{"checkin":"2026-04-07","checkout":"2026-04-12"},"additionalneeds":"Dinner"}}

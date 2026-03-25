@@ -1,0 +1,14 @@
+{
+  "bookingid": 918,
+  "booking": {
+    "firstname": "Anna",
+    "lastname": "Lane",
+    "totalprice": 801,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2026-04-03",
+      "checkout": "2026-04-07"
+    },
+    "additionalneeds": "Parking"
+  }
+}

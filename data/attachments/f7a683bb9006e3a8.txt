@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":765,"booking":{"firstname":"SearchTestUser","lastname":"Payne","totalprice":508,"depositpaid":true,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-03-27"},"additionalneeds":"None"}}

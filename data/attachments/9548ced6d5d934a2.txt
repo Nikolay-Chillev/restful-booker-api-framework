@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":856,"booking":{"firstname":"Donna","lastname":"Klein","totalprice":1,"depositpaid":false,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-04-05"},"additionalneeds":"Parking"}}

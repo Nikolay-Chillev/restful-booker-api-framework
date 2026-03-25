@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Benjamin","lastname":"Barnes","totalprice":1371,"depositpaid":true,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-19"},"additionalneeds":"None"}

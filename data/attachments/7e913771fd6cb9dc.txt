@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":942,"booking":{"firstname":"David","lastname":"Bowen","totalprice":1147,"depositpaid":true,"bookingdates":{"checkin":"2026-04-06","checkout":"2026-04-09"},"additionalneeds":"Parking"}}

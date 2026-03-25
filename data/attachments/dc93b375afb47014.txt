@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":923,"booking":{"firstname":"SearchTestUser","lastname":"Newman","totalprice":422,"depositpaid":false,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-18"},"additionalneeds":"Breakfast"}}

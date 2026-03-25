@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Sarah","lastname":"Bowers","totalprice":1406,"depositpaid":false,"bookingdates":{"checkin":"2026-04-08","checkout":"2026-04-18"},"additionalneeds":"Wi-Fi"}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":869,"booking":{"firstname":"Jessica","lastname":"Sloan","totalprice":90,"depositpaid":false,"bookingdates":{"checkin":"2030-01-01","checkout":"2030-12-31"},"additionalneeds":"Wi-Fi"}}

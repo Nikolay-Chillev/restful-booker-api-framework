@@ -1,0 +1,18 @@
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | Response: 200 (0.00s)
+2026-03-25 11:42:01 | INFO     | tests.conftest | Factory created booking ID: 874
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | Response: 200 (0.00s)
+2026-03-25 11:42:01 | INFO     | tests.conftest | Factory created booking ID: 876
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | Response: 200 (0.00s)
+2026-03-25 11:42:01 | INFO     | tests.conftest | Factory created booking ID: 877
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/874
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | Response: 201 (0.01s)
+2026-03-25 11:42:01 | INFO     | tests.conftest | Cleaned up booking ID: 874
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/876
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | Response: 201 (0.01s)
+2026-03-25 11:42:01 | INFO     | tests.conftest | Cleaned up booking ID: 876
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/877
+2026-03-25 11:42:01 | INFO     | api_clients.base_client | Response: 201 (0.01s)
+2026-03-25 11:42:01 | INFO     | tests.conftest | Cleaned up booking ID: 877

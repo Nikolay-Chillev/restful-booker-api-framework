@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":862,"booking":{"firstname":"Mary-Jane","lastname":"Krause","totalprice":405,"depositpaid":false,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-05-01"},"additionalneeds":"None"}}

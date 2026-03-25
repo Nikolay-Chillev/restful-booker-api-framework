@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Barbara","lastname":"Williams","totalprice":196,"depositpaid":true,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-03-31"},"additionalneeds":"Wi-Fi"}

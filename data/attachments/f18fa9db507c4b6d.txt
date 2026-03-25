@@ -1,0 +1,16 @@
+2026-03-25 11:42:02 | INFO     | tests.conftest | Obtaining auth token for test module
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/auth
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 200 (0.01s)
+2026-03-25 11:42:02 | INFO     | api_clients.auth_client | Authentication successful, token obtained
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 200 (0.00s)
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | GET https://restful-booker.herokuapp.com/booking/919
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 200 (0.01s)
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | PUT https://restful-booker.herokuapp.com/booking/919
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 200 (0.01s)
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | PATCH https://restful-booker.herokuapp.com/booking/919
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 200 (0.01s)
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/919
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 201 (0.01s)
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | GET https://restful-booker.herokuapp.com/booking/919
+2026-03-25 11:42:02 | INFO     | api_clients.base_client | Response: 404 (0.00s)

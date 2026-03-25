@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Christine","lastname":"Walton","totalprice":306,"depositpaid":true,"bookingdates":{"checkin":"2026-04-04","checkout":"2026-04-08"},"additionalneeds":"Parking"}

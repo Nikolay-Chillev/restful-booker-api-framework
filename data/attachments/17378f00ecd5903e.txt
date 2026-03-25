@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Kelsey","lastname":"Peterson","totalprice":335,"depositpaid":false,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-23"},"additionalneeds":"Breakfast"}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":928,"booking":{"firstname":"Stephanie","lastname":"Taylor","totalprice":null,"depositpaid":true,"bookingdates":{"checkin":"2026-04-04","checkout":"2026-04-18"},"additionalneeds":"None"}}

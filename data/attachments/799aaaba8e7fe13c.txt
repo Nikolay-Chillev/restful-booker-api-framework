@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":927,"booking":{"firstname":"Jeffrey","lastname":"Myers","totalprice":482,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"None"}}

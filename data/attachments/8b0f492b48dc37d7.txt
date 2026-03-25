@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":915,"booking":{"firstname":"Brett","lastname":"Vargas","totalprice":784,"depositpaid":false,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-04-27"},"additionalneeds":"Wi-Fi"}}

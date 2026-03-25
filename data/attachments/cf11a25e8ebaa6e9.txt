@@ -1,3 +1,0 @@
-PATCH https://restful-booker.herokuapp.com/booking/748
-Time: 0.01s
-Body: {'firstname': 'UpdatedName'}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":711,"booking":{"firstname":"Joanna","lastname":"Livingston","totalprice":1313,"depositpaid":false,"bookingdates":{"checkin":"2026-03-27","checkout":"2026-03-27"},"additionalneeds":"Dinner"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":861,"booking":{"firstname":"O'Brien","lastname":"Morris","totalprice":290,"depositpaid":false,"bookingdates":{"checkin":"2026-04-22","checkout":"2026-05-06"},"additionalneeds":"None"}}

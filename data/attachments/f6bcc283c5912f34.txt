@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":883,"booking":{"firstname":"Wei","lastname":"Zhang","totalprice":200,"depositpaid":false,"bookingdates":{"checkin":"2027-10-01","checkout":"2027-10-05"},"additionalneeds":"None"}}
