@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":730,"booking":{"firstname":"April","lastname":"Ramirez","totalprice":1420,"depositpaid":false,"bookingdates":{"checkin":"2026-04-20","checkout":"2026-04-26"},"additionalneeds":"Wi-Fi"}}

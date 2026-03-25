@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":676,"booking":{"firstname":"Heather","lastname":"Glover","totalprice":89,"depositpaid":true,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-19"},"additionalneeds":"Parking"}}

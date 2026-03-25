@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":756,"booking":{"firstname":"Ricardo","lastname":"Meyer","totalprice":676,"depositpaid":false,"bookingdates":{"checkin":"2026-04-14","checkout":"2026-04-18"},"additionalneeds":"Lunch"}}

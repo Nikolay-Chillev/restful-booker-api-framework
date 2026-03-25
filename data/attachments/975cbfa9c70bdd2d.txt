@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":675,"booking":{"firstname":"Christopher","lastname":"Gates","totalprice":873,"depositpaid":true,"bookingdates":{"checkin":"2026-04-04","checkout":"2026-04-08"},"additionalneeds":"None"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":752,"booking":{"firstname":"Kelsey","lastname":"Padilla","totalprice":1142,"depositpaid":true,"bookingdates":{"checkin":"2026-04-23","checkout":"2026-04-25"},"additionalneeds":"Dinner"}}

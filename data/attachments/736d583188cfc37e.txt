@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"PatchedName","lastname":"Clark","totalprice":1234,"depositpaid":true,"bookingdates":{"checkin":"2026-04-22","checkout":"2026-05-01"},"additionalneeds":"Dinner"}

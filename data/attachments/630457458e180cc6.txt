@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":285,"booking":{"firstname":"'; DROP TABLE bookings; --","lastname":"Test","totalprice":100,"depositpaid":true,"bookingdates":{"checkin":"2027-06-01","checkout":"2027-06-05"}}}

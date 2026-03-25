@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"PatchedName","lastname":"Daugherty","totalprice":1234,"depositpaid":true,"bookingdates":{"checkin":"2026-04-02","checkout":"2026-04-08"},"additionalneeds":"Breakfast"}

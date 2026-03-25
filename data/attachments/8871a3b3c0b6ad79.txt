@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":727,"booking":{"firstname":"Jennifer","lastname":"Castro","totalprice":407,"depositpaid":true,"bookingdates":{"checkin":"2026-04-03","checkout":"2026-04-16"},"additionalneeds":"Wi-Fi"}}

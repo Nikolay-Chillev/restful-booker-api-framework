@@ -1,2 +1,0 @@
-Status: 200
-Body: [{"bookingid":237},{"bookingid":233},{"bookingid":234}]

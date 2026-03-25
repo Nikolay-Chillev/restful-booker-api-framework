@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":87,"booking":{"firstname":"Jose Luis","lastname":"Richardson","totalprice":142,"depositpaid":false,"bookingdates":{"checkin":"2026-03-31","checkout":"2026-04-13"},"additionalneeds":"None"}}

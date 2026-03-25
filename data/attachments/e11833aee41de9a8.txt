@@ -1,3 +1,0 @@
-POST https://restful-booker.herokuapp.com/auth
-Time: 0.07s
-Body: {'username': 'admin', 'password': ''}

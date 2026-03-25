@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":705,"booking":{"firstname":"O'Brien","lastname":"Booth","totalprice":408,"depositpaid":true,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-04-01"},"additionalneeds":"Lunch"}}

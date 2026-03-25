@@ -1,2 +1,0 @@
-Status: 200
-Body: [{"bookingid":5},{"bookingid":4},{"bookingid":12},{"bookingid":9},{"bookingid":13},{"bookingid":7},{"bookingid":3},{"bookingid":8},{"bookingid":6},{"bookingid":11},{"bookingid":10},{"bookingid":2},{"bookingid":1}]

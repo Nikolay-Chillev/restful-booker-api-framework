@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":748,"booking":{"firstname":"Brittany","lastname":"Pennington","totalprice":1444,"depositpaid":false,"bookingdates":{"checkin":"2026-04-01","checkout":"2026-04-08"},"additionalneeds":"Wi-Fi"}}

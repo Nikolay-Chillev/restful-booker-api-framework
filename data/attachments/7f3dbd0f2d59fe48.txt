@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":766,"booking":{"firstname":"SearchTestUser","lastname":"Bowen","totalprice":461,"depositpaid":false,"bookingdates":{"checkin":"2026-04-04","checkout":"2026-04-16"},"additionalneeds":"Dinner"}}

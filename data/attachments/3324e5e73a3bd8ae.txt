@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":714,"booking":{"firstname":"Shannon","lastname":"Calderon","totalprice":411,"depositpaid":true,"bookingdates":{"checkin":"2026-04-12","checkout":"2026-04-24"},"additionalneeds":"None"}}

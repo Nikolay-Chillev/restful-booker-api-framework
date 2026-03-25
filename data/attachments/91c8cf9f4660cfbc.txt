@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":100,"booking":{"firstname":"Louis","lastname":"Cook","totalprice":412,"depositpaid":false,"bookingdates":{"checkin":"2020-01-01","checkout":"2020-01-05"},"additionalneeds":"Wi-Fi"}}

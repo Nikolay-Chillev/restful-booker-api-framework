@@ -1,0 +1,3 @@
+POST https://restful-booker.herokuapp.com/auth
+Time: 0.00s
+Body: {'username': 'admin', 'password': 'wrong_pass'}

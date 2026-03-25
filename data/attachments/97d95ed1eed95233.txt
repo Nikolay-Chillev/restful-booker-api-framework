@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":780,"booking":{"firstname":"<script>alert('xss')</script>","lastname":"Johnson","totalprice":73,"depositpaid":false,"bookingdates":{"checkin":"2026-04-03","checkout":"2026-04-16"},"additionalneeds":"Wi-Fi"}}

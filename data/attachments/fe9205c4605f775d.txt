@@ -1,3 +1,0 @@
-POST https://restful-booker.herokuapp.com/booking
-Time: 0.07s
-Body: {'firstname': 'Tanya', 'lastname': 'Massey', 'totalprice': 1190, 'depositpaid': False, 'bookingdates': {'checkin': '2026-03-26', 'checkout': '2026-04-09'}, 'additionalneeds': 'None'}

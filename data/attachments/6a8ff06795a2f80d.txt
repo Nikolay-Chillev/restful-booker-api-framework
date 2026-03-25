@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":794,"booking":{"firstname":"Kimberly","lastname":"Clarke","totalprice":812,"depositpaid":true,"bookingdates":{"checkin":"2026-04-18","checkout":"2026-04-20"},"additionalneeds":"None"}}

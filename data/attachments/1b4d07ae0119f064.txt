@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":248,"booking":{"firstname":"Sean","lastname":"Proctor","totalprice":609,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Breakfast"}}
