@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":5632,"booking":{"firstname":"Elena","lastname":"Petrova","totalprice":500,"depositpaid":true,"bookingdates":{"checkin":"2027-09-10","checkout":"2027-09-25"},"additionalneeds":"Dinner"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":5578,"booking":{"firstname":"A","lastname":"Buchanan","totalprice":1363,"depositpaid":false,"bookingdates":{"checkin":"2026-04-01","checkout":"2026-04-13"},"additionalneeds":"Parking"}}

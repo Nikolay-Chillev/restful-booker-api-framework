@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":237,"booking":{"firstname":"SearchTestUser","lastname":"Maxwell","totalprice":1056,"depositpaid":true,"bookingdates":{"checkin":"2026-04-06","checkout":"2026-04-15"},"additionalneeds":"None"}}

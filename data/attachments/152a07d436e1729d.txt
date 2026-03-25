@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":111,"booking":{"firstname":"Barbara","lastname":"Mercado","totalprice":816,"depositpaid":false,"bookingdates":{"checkin":"2026-04-06","checkout":"2026-04-16"},"additionalneeds":"Breakfast"}}

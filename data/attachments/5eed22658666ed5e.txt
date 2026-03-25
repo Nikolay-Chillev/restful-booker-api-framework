@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":197,"booking":{"firstname":"Emily","lastname":"Lozano","totalprice":659,"depositpaid":true,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-22"},"additionalneeds":"Lunch"}}

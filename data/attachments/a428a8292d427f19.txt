@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":80,"booking":{"firstname":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","lastname":"Mendez","totalprice":924,"depositpaid":false,"bookingdates":{"checkin":"2026-04-21","checkout":"2026-05-04"},"additionalneeds":"Parking"}}

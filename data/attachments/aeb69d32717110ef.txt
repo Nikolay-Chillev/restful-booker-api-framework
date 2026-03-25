@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":280,"booking":{"firstname":"Test","lastname":"User","totalprice":null,"depositpaid":true,"bookingdates":{"checkin":"2027-06-01","checkout":"2027-06-05"}}}

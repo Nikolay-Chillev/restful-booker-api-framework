@@ -1,2 +1,0 @@
-GET https://restful-booker.herokuapp.com/booking/5660
-Time: 0.08s

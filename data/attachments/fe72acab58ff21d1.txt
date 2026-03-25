@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":5727,"booking":{"firstname":"Corey","lastname":"Rodriguez","totalprice":869,"depositpaid":true,"bookingdates":{"checkin":"2026-04-13","checkout":"2026-04-20"},"additionalneeds":"Parking"}}

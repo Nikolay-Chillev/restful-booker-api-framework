@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Janice","lastname":"Rojas","totalprice":1295,"depositpaid":true,"bookingdates":{"checkin":"2026-04-07","checkout":"2026-04-12"},"additionalneeds":"Breakfast"}

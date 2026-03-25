@@ -1,0 +1,2 @@
+DELETE https://restful-booker.herokuapp.com/booking/162
+Time: 0.07s

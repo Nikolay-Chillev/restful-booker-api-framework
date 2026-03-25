@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Jillian","lastname":"Jensen","totalprice":1298,"depositpaid":false,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-03-28"},"additionalneeds":"None"}

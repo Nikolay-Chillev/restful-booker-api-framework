@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":5583,"booking":{"firstname":"O'Brien","lastname":"Hall","totalprice":1297,"depositpaid":false,"bookingdates":{"checkin":"2026-04-08","checkout":"2026-04-19"},"additionalneeds":"Lunch"}}

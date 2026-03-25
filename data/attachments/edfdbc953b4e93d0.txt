@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":5628,"booking":{"firstname":"Alex","lastname":"Kim","totalprice":75,"depositpaid":true,"bookingdates":{"checkin":"2027-08-01","checkout":"2027-08-03"},"additionalneeds":"Wi-Fi"}}

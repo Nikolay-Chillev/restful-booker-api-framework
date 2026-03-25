@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"../../etc/passwd","lastname":"Dominguez","totalprice":410,"depositpaid":false,"bookingdates":{"checkin":"2026-04-03","checkout":"2026-04-10"},"additionalneeds":"None"}

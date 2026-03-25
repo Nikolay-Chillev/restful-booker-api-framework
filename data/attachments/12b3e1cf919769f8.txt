@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":96,"booking":{"firstname":"Belinda","lastname":"Smith","totalprice":1145,"depositpaid":true,"bookingdates":{"checkin":"2030-01-01","checkout":"2030-12-31"},"additionalneeds":"Dinner"}}

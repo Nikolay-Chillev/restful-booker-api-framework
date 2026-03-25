@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":209,"booking":{"firstname":"Tanya","lastname":"Massey","totalprice":1190,"depositpaid":false,"bookingdates":{"checkin":"2026-03-26","checkout":"2026-04-09"},"additionalneeds":"None"}}

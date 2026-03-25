@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":271,"booking":{"firstname":"; rm -rf /","lastname":"Hardin","totalprice":1390,"depositpaid":false,"bookingdates":{"checkin":"2026-04-08","checkout":"2026-04-17"},"additionalneeds":"Parking"}}

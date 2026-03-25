@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":76,"booking":{"firstname":"Brandy","lastname":"Friedman","totalprice":999999,"depositpaid":true,"bookingdates":{"checkin":"2026-04-11","checkout":"2026-04-22"},"additionalneeds":"Breakfast"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":203,"booking":{"firstname":"Stephen","lastname":"Krueger","totalprice":826,"depositpaid":true,"bookingdates":{"checkin":"2026-04-14","checkout":"2026-04-28"},"additionalneeds":"Breakfast"}}

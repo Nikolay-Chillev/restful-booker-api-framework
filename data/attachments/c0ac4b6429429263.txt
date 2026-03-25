@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":38,"booking":{"firstname":"John","lastname":"Richards","totalprice":262,"depositpaid":true,"bookingdates":{"checkin":"2026-03-31","checkout":"2026-04-06"},"additionalneeds":"None"}}

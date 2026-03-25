@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":297,"booking":{"firstname":"Margaret","lastname":"Brown","totalprice":98,"depositpaid":true,"bookingdates":{"checkin":"2026-04-09","checkout":"2026-04-20"},"additionalneeds":"Parking"}}

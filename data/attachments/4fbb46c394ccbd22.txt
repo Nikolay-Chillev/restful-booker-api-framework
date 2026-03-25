@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":18,"booking":{"firstname":"Dawn","lastname":"Smith","totalprice":552,"depositpaid":true,"bookingdates":{"checkin":"2026-04-08","checkout":"2026-04-21"},"additionalneeds":"Lunch"}}

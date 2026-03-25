@@ -1,0 +1,10 @@
+Content-Length: 173
+Content-Type: application/json; charset=utf-8
+Date: Wed, 25 Mar 2026 10:00:57 GMT
+Etag: W/"ad-mTE1yt9i8BY1/7p1I/tlDa9i6qo"
+Nel: {"report_to":"heroku-nel","response_headers":["Via"],"max_age":3600,"success_fraction":0.01,"failure_fraction":0.1}
+Report-To: {"group":"heroku-nel","endpoints":[{"url":"https://nel.heroku.com/reports?s=pDty8wtdYJj5OrkijbhgpwwvQA6Q8Ju2rLrwHSdlVS8%3D\u0026sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add\u0026ts=1774432857"}],"max_age":3600}
+Reporting-Endpoints: heroku-nel="https://nel.heroku.com/reports?s=pDty8wtdYJj5OrkijbhgpwwvQA6Q8Ju2rLrwHSdlVS8%3D&sid=c46efe9b-d3d2-4a0c-8c76-bfafa16c5add&ts=1774432857"
+Server: Heroku
+Via: 1.1 heroku-router
+X-Powered-By: Express

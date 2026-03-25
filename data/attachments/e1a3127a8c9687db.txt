@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":5720,"booking":{"firstname":"SearchTestUser","lastname":"Henderson","totalprice":766,"depositpaid":true,"bookingdates":{"checkin":"2026-04-07","checkout":"2026-04-16"},"additionalneeds":"Lunch"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Edward","lastname":"Gray","totalprice":319,"depositpaid":false,"bookingdates":{"checkin":"2026-04-10","checkout":"2026-04-14"},"additionalneeds":"None"}
