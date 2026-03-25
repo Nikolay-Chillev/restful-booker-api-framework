@@ -1,9 +1,9 @@
 # Restful Booker API Test Automation Framework
 
+![CI](https://github.com/Nikolay-Chillev/restful-booker-api-framework/actions/workflows/api-tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?logo=python)
 ![Pytest](https://img.shields.io/badge/Pytest-8.3-green?logo=pytest)
 ![Allure](https://img.shields.io/badge/Allure-Report-orange)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-black?logo=github)
 ![Docker](https://img.shields.io/badge/Docker-Supported-blue?logo=docker)
 
 Enterprise-grade API test automation framework for the [Restful Booker API](https://restful-booker.herokuapp.com/apidoc/index.html), built with Python, Pytest, and Allure reporting.
