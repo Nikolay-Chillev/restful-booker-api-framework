@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":1986,"booking":{"firstname":"Whitney","lastname":"Davis","totalprice":1225,"depositpaid":false,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-18"},"additionalneeds":"Lunch"}}

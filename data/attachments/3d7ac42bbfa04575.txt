@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2009,"booking":{"firstname":"Michael","lastname":"Lopez","totalprice":74,"depositpaid":false,"bookingdates":{"checkin":"2026-03-29","checkout":"2026-04-03"},"additionalneeds":"Parking"}}

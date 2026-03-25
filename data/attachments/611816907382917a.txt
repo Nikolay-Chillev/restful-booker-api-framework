@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Joel","lastname":"Gordon","totalprice":1336,"depositpaid":true,"bookingdates":{"checkin":"2026-03-26","checkout":"2026-04-04"},"additionalneeds":"Breakfast"}

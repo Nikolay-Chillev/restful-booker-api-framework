@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2005,"booking":{"firstname":"James","lastname":"Wilcox","totalprice":1387,"depositpaid":false,"bookingdates":{"checkin":"2026-04-19","checkout":"2026-04-22"},"additionalneeds":"Parking"}}

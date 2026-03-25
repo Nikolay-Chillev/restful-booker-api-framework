@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":1906,"booking":{"firstname":"Laura","lastname":"Stanton","totalprice":361,"depositpaid":false,"bookingdates":{"checkin":"2026-04-19","checkout":"2026-05-01"},"additionalneeds":"Dinner"}}

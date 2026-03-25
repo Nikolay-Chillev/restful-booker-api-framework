@@ -1,0 +1,2 @@
+INFO     api_clients.base_client:base_client.py:36 DELETE https://restful-booker.herokuapp.com/booking/999999999
+INFO     api_clients.base_client:base_client.py:51 Response: 405 (0.04s)

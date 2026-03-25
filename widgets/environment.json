@@ -1,0 +1,1 @@
+[{"values":["https://restful-booker.herokuapp.com"],"name":"Base.URL"},{"values":["30"],"name":"Timeout"},{"values":["3.11+"],"name":"Python.Version"},{"values":["Pytest + Requests"],"name":"Framework"}]

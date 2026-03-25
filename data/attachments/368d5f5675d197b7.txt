@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Ryan","lastname":"Jones","totalprice":454,"depositpaid":true,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-18"},"additionalneeds":"Wi-Fi"}

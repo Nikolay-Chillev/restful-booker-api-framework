@@ -1,0 +1,3 @@
+POST https://restful-booker.herokuapp.com/booking
+Time: 0.04s
+Body: {'firstname': 'Angelica', 'lastname': 'Figueroa', 'totalprice': 1, 'depositpaid': True, 'bookingdates': {'checkin': '2026-04-05', 'checkout': '2026-04-18'}, 'additionalneeds': 'Lunch'}

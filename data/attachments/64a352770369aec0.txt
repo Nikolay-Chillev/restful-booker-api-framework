@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":1968,"booking":{"firstname":"Phyllis","lastname":"Allen","totalprice":418,"depositpaid":true,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-04-06"},"additionalneeds":"Lunch"}}

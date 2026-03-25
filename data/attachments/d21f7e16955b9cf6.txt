@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2011,"booking":{"firstname":"Cynthia","lastname":"Moore","totalprice":762,"depositpaid":true,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-20"},"additionalneeds":"Wi-Fi"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2045,"booking":{"firstname":"'; DROP TABLE bookings; --","lastname":"Thompson","totalprice":222,"depositpaid":false,"bookingdates":{"checkin":"2026-04-13","checkout":"2026-04-14"},"additionalneeds":"Breakfast"}}

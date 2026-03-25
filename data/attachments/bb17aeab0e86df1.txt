@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2049,"booking":{"firstname":"../../etc/passwd","lastname":"Howard","totalprice":64,"depositpaid":false,"bookingdates":{"checkin":"2026-04-16","checkout":"2026-04-29"},"additionalneeds":"Parking"}}

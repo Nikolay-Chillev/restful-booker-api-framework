@@ -1,0 +1,3 @@
+POST https://restful-booker.herokuapp.com/booking
+Time: 0.04s
+Body: {'firstname': 'A', 'lastname': 'Griffin', 'totalprice': 1487, 'depositpaid': True, 'bookingdates': {'checkin': '2026-03-31', 'checkout': '2026-04-12'}, 'additionalneeds': 'Wi-Fi'}

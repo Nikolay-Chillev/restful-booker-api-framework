@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"David","lastname":"Mcbride","totalprice":919,"depositpaid":false,"bookingdates":{"checkin":"2026-03-26","checkout":"2026-04-04"},"additionalneeds":"Breakfast"}

@@ -1,0 +1,6 @@
+2026-03-25 09:43:41 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 09:43:41 | INFO     | api_clients.base_client | Response: 200 (0.04s)
+2026-03-25 09:43:41 | INFO     | tests.conftest | Factory created booking ID: 1930
+2026-03-25 09:43:41 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/1930
+2026-03-25 09:43:41 | INFO     | api_clients.base_client | Response: 201 (0.04s)
+2026-03-25 09:43:41 | INFO     | tests.conftest | Cleaned up booking ID: 1930

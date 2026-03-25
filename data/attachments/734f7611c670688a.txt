@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"; rm -rf /","lastname":"Phillips","totalprice":1244,"depositpaid":false,"bookingdates":{"checkin":"2026-04-15","checkout":"2026-04-28"},"additionalneeds":"Parking"}

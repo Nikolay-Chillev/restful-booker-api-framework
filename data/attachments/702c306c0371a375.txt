@@ -1,0 +1,3 @@
+Bug: KNOWN-BUG-001: API accepts invalid date formats without validation
+Expected: 400 Bad Request — dates should be validated
+Actual: 200 OK — booking created with invalid dates

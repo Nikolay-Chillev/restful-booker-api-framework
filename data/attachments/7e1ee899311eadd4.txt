@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2041,"booking":{"firstname":"Michael","lastname":"Brewer","totalprice":798,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Lunch"}}

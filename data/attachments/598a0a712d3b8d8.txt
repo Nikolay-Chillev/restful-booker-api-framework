@@ -1,0 +1,3 @@
+Bug: KNOWN-BUG-003: API accepts extremely long strings without length validation
+Expected: 400 Bad Request — firstname too long
+Actual: 200 OK — booking created with 5000-char name

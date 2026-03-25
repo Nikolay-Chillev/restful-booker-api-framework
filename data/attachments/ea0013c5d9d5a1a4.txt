@@ -1,0 +1,3 @@
+Bug: KNOWN-BUG-004: API stores XSS/injection payloads without sanitization
+Expected: Sanitized or rejected SQL injection payload
+Actual: Stored raw payload: '; DROP TABLE bookings; --

@@ -1,0 +1,3 @@
+Bug: KNOWN-BUG: API accepts String instead of number for totalprice
+Expected: 400/422 — invalid payload should be rejected
+Actual: 200 OK — booking created despite: String instead of number for totalprice

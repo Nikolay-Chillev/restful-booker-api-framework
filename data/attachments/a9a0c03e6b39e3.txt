@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Michael","lastname":"Bridges","totalprice":1052,"depositpaid":true,"bookingdates":{"checkin":"2026-04-10","checkout":"2026-04-12"},"additionalneeds":"Breakfast"}

@@ -1,0 +1,3 @@
+Bug: KNOWN-BUG-002: API accepts string value for totalprice (type coercion)
+Expected: 400 Bad Request — totalprice should be integer
+Actual: 200 OK — booking created with string price

@@ -1,0 +1,8 @@
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | Response: 200 (0.04s)
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | PUT https://restful-booker.herokuapp.com/booking/2038
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | Response: 200 (0.04s)
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | GET https://restful-booker.herokuapp.com/booking/2038
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | Response: 200 (0.04s)
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/2038
+2026-03-25 09:43:47 | INFO     | api_clients.base_client | Response: 201 (0.04s)

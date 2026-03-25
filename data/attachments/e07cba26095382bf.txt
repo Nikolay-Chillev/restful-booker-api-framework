@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2012,"booking":{"firstname":"Tammy","lastname":"Mcfarland","totalprice":1104,"depositpaid":true,"bookingdates":{"checkin":"2026-03-25","checkout":"2026-03-30"},"additionalneeds":"Lunch"}}
