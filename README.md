@@ -8,6 +8,8 @@
 
 Enterprise-grade API test automation framework for the [Restful Booker API](https://restful-booker.herokuapp.com/apidoc/index.html), built with Python, Pytest, and Allure reporting.
 
+### [View Live Allure Report](https://nikolay-chillev.github.io/restful-booker-api-framework)
+
 ---
 
 ## Features
@@ -192,6 +194,7 @@ The GitHub Actions workflow runs on every push to `main` and on pull requests:
 3. **Full regression suite** follows
 4. **Allure results** uploaded as artifacts (14-day retention)
 5. **Pip caching** for faster builds
+6. **Allure report** auto-generated and deployed to [GitHub Pages](https://nikolay-chillev.github.io/restful-booker-api-framework) with trend history
 
 ---
 
