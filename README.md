@@ -220,26 +220,12 @@ TEST_ENV=staging pytest -v
 
 ## Architecture
 
-```
-┌────────────────────────────────────────────────┐
-│                  Test Layer                    │
-│  (test_auth, test_bookings, test_contracts,   │
-│   test_e2e, test_negative, test_performance)  │
-├────────────────────────────────────────────────┤
-│                Fixtures Layer                  │
-│  (conftest.py — shared fixtures & setup)      │
-├────────────────────────────────────────────────┤
-│              API Client Layer                  │
-│  (AuthClient, BookingClient ← BaseClient)     │
-├────────────────────────────────────────────────┤
-│                Models Layer                    │
-│  (Pydantic: Booking, BookingResponse, Auth)   │
-├────────────────────────────────────────────────┤
-│              Utilities Layer                   │
-│  (logger, helpers, schema_validator, retry)   │
-├────────────────────────────────────────────────┤
-│            Configuration Layer                 │
-│  (Settings, environment .env files)           │
-└────────────────────────────────────────────────┘
-```
+| Layer | Components |
+|---|---|
+| **Test Layer** | test_auth, test_bookings, test_contracts, test_e2e, test_negative, test_performance |
+| **Fixtures Layer** | conftest.py - shared fixtures & setup |
+| **API Client Layer** | AuthClient, BookingClient <- BaseClient |
+| **Models Layer** | Pydantic: Booking, BookingResponse, Auth |
+| **Utilities Layer** | logger, helpers, schema_validator, retry |
+| **Configuration Layer** | Settings, environment .env files |
 
