@@ -1,0 +1,19 @@
+version: "3.8"
+
+services:
+  api-tests:
+    build: .
+    environment:
+      - TEST_ENV=dev
+      - BASE_URL=https://restful-booker.herokuapp.com
+    volumes:
+      - ./allure-results:/app/allure-results
+    command: pytest -v --alluredir=allure-results
+
+  smoke-tests:
+    build: .
+    environment:
+      - TEST_ENV=dev
+    volumes:
+      - ./allure-results:/app/allure-results
+    command: pytest -m smoke -v --alluredir=allure-results

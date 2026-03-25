@@ -1,0 +1,56 @@
+[
+  {
+    "firstname": "John",
+    "lastname": "Doe",
+    "totalprice": 150,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2027-06-01",
+      "checkout": "2027-06-10"
+    },
+    "additionalneeds": "Breakfast"
+  },
+  {
+    "firstname": "Maria",
+    "lastname": "Garcia",
+    "totalprice": 320,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2027-07-15",
+      "checkout": "2027-07-20"
+    },
+    "additionalneeds": "Parking"
+  },
+  {
+    "firstname": "Alex",
+    "lastname": "Kim",
+    "totalprice": 75,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2027-08-01",
+      "checkout": "2027-08-03"
+    },
+    "additionalneeds": "Wi-Fi"
+  },
+  {
+    "firstname": "Elena",
+    "lastname": "Petrova",
+    "totalprice": 500,
+    "depositpaid": true,
+    "bookingdates": {
+      "checkin": "2027-09-10",
+      "checkout": "2027-09-25"
+    },
+    "additionalneeds": "Dinner"
+  },
+  {
+    "firstname": "Wei",
+    "lastname": "Zhang",
+    "totalprice": 200,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2027-10-01",
+      "checkout": "2027-10-05"
+    }
+  }
+]

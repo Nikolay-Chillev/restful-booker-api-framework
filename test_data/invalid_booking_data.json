@@ -1,0 +1,83 @@
+[
+  {
+    "description": "Missing firstname",
+    "data": {
+      "lastname": "Test",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2027-06-01",
+        "checkout": "2027-06-05"
+      }
+    }
+  },
+  {
+    "description": "Empty body",
+    "data": {}
+  },
+  {
+    "description": "Invalid date format",
+    "data": {
+      "firstname": "Test",
+      "lastname": "User",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "not-a-date",
+        "checkout": "also-not-a-date"
+      }
+    }
+  },
+  {
+    "description": "String instead of number for totalprice",
+    "data": {
+      "firstname": "Test",
+      "lastname": "User",
+      "totalprice": "not_a_number",
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2027-06-01",
+        "checkout": "2027-06-05"
+      }
+    }
+  },
+  {
+    "description": "Extremely long firstname",
+    "data": {
+      "firstname": "AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+      "lastname": "Test",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2027-06-01",
+        "checkout": "2027-06-05"
+      }
+    }
+  },
+  {
+    "description": "SQL injection in firstname",
+    "data": {
+      "firstname": "'; DROP TABLE bookings; --",
+      "lastname": "Test",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2027-06-01",
+        "checkout": "2027-06-05"
+      }
+    }
+  },
+  {
+    "description": "Special characters in fields",
+    "data": {
+      "firstname": "<script>alert('xss')</script>",
+      "lastname": "Test&User<>",
+      "totalprice": 100,
+      "depositpaid": true,
+      "bookingdates": {
+        "checkin": "2027-06-01",
+        "checkout": "2027-06-05"
+      }
+    }
+  }
+]
