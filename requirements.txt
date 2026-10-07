@@ -1,7 +1,7 @@
-requests==2.31.0
-pytest==8.3.4
-allure-pytest==2.13.5
-pydantic==2.10.4
-jsonschema==4.23.0
-python-dotenv==1.0.1
-faker==33.1.0
+requests==2.34.2
+pytest==9.1.1
+allure-pytest==2.16.2
+pydantic==2.13.5
+jsonschema==4.26.0
+python-dotenv==1.2.4
+faker==40.41.0
