@@ -7,9 +7,7 @@ on:
     branches: [main]
 
 permissions:
-  contents: write
-  pages: write
-  id-token: write
+  contents: read
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -44,8 +42,9 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements-dev.txt
 
+      # Fails fast on a broken environment; the full run below writes the Allure results.
       - name: Run smoke tests
-        run: pytest -m smoke -v --alluredir=allure-results
+        run: pytest -m smoke -v
 
       - name: Run full regression suite
         run: pytest -v --alluredir=allure-results
@@ -72,6 +71,8 @@ jobs:
     runs-on: ubuntu-latest
     needs: api-tests
     if: always() && github.ref == 'refs/heads/main' && github.event_name == 'push'
+    permissions:
+      contents: write  # push the report to the gh-pages branch
 
     steps:
       - name: Checkout code
@@ -91,11 +92,11 @@ jobs:
           ref: gh-pages
           path: gh-pages
 
+      # Allure reads the trend history from the results; the output folder is wiped by --clean.
       - name: Copy previous history
         run: |
-          mkdir -p allure-history
           if [ -d gh-pages/history ]; then
-            cp -r gh-pages/history allure-history/history
+            cp -r gh-pages/history allure-results/history
           fi
 
       - name: Install Allure CLI
