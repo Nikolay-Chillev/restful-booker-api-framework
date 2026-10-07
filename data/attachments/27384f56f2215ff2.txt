@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4587,"booking":{"firstname":"Samantha","lastname":"Lawson","totalprice":128,"depositpaid":true,"bookingdates":{"checkin":"2026-10-09","checkout":"2026-10-18"},"additionalneeds":"Wi-Fi"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":777,"booking":{"firstname":"Patricia","lastname":"Pope","totalprice":1169,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-19"},"additionalneeds":"Lunch"}}

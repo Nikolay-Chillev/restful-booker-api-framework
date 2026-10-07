@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"; rm -rf /","lastname":"Campbell","totalprice":1446,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-18"},"additionalneeds":"Dinner"}

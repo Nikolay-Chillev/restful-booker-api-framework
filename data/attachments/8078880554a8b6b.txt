@@ -1,6 +1,0 @@
-2026-10-07 11:02:32 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
-2026-10-07 11:02:32 | INFO     | api_clients.base_client | Response: 200 (0.03s)
-2026-10-07 11:02:32 | INFO     | tests.conftest | Factory created booking ID: 727
-2026-10-07 11:02:32 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/727
-2026-10-07 11:02:32 | INFO     | api_clients.base_client | Response: 201 (0.03s)
-2026-10-07 11:02:32 | INFO     | tests.conftest | Cleaned up booking ID: 727

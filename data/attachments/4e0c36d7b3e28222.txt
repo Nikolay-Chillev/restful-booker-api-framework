@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4658,"booking":{"firstname":"Sandra","lastname":"Larsen","totalprice":1478,"depositpaid":false,"bookingdates":{"checkin":"2026-10-13","checkout":"2026-10-20"},"additionalneeds":"Dinner"}}

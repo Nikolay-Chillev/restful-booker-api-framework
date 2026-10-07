@@ -1,0 +1,3 @@
+POST https://restful-booker.herokuapp.com/booking
+Time: 0.03s
+Body: {'firstname': 'Mary-Jane', 'lastname': 'Jennings', 'totalprice': 1494, 'depositpaid': True, 'bookingdates': {'checkin': '2026-10-25', 'checkout': '2026-11-04'}, 'additionalneeds': 'Wi-Fi'}

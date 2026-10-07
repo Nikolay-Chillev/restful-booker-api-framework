@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4682,"booking":{"firstname":"<script>alert('xss')</script>","lastname":"May","totalprice":1340,"depositpaid":true,"bookingdates":{"checkin":"2026-10-21","checkout":"2026-10-25"},"additionalneeds":"Lunch"}}

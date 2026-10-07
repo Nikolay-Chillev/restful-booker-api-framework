@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4610,"booking":{"firstname":"Alicia","lastname":"Fitzgerald","totalprice":322,"depositpaid":false,"bookingdates":{"checkin":"2026-10-25","checkout":"2026-10-27"},"additionalneeds":"Breakfast"}}

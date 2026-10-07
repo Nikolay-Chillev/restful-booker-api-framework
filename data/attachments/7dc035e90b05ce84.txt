@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":786,"booking":{"firstname":"Brian","lastname":"Preston","totalprice":898,"depositpaid":false,"bookingdates":{"checkin":"2026-10-23","checkout":"2026-10-24"},"additionalneeds":"Dinner"}}

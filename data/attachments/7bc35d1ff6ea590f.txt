@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4527,"booking":{"firstname":"Lauren","lastname":"Dominguez","totalprice":999999,"depositpaid":true,"bookingdates":{"checkin":"2026-10-21","checkout":"2026-11-02"},"additionalneeds":"Parking"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"token":"d1b72a30b24ee60"}

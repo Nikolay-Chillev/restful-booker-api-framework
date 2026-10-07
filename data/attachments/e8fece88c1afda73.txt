@@ -1,0 +1,3 @@
+POST https://restful-booker.herokuapp.com/booking
+Time: 0.03s
+Body: {'firstname': 'Jose Luis', 'lastname': 'Whitehead', 'totalprice': 837, 'depositpaid': True, 'bookingdates': {'checkin': '2026-10-19', 'checkout': '2026-11-02'}, 'additionalneeds': 'Parking'}

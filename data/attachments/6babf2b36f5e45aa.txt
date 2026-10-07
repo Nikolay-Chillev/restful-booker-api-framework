@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4622,"booking":{"firstname":"Mason","lastname":"Mckay","totalprice":746,"depositpaid":true,"bookingdates":{"checkin":"2026-10-29","checkout":"2026-11-05"},"additionalneeds":"Parking"}}

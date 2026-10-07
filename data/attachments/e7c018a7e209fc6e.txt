@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4534,"booking":{"firstname":"O'Brien","lastname":"Hines","totalprice":527,"depositpaid":false,"bookingdates":{"checkin":"2026-10-20","checkout":"2026-11-03"},"additionalneeds":"None"}}

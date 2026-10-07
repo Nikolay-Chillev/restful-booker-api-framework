@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"; rm -rf /","lastname":"Andersen","totalprice":1470,"depositpaid":false,"bookingdates":{"checkin":"2026-10-29","checkout":"2026-11-01"},"additionalneeds":"Parking"}

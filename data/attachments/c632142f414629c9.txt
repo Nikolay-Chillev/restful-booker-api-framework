@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":696,"booking":{"firstname":"Stephanie","lastname":"Wheeler","totalprice":1080,"depositpaid":true,"bookingdates":{"checkin":"2026-10-26","checkout":"2026-11-05"},"additionalneeds":"Lunch"}}

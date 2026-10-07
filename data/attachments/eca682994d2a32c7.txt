@@ -1,0 +1,2 @@
+2026-10-07 11:09:16 | INFO     | api_clients.base_client | GET https://restful-booker.herokuapp.com/booking/-1
+2026-10-07 11:09:16 | INFO     | api_clients.base_client | Response: 404 (0.03s)

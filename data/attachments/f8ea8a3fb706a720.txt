@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4666,"booking":{"firstname":"SearchTestUser","lastname":"Lopez","totalprice":1211,"depositpaid":false,"bookingdates":{"checkin":"2026-10-14","checkout":"2026-10-21"},"additionalneeds":"Breakfast"}}

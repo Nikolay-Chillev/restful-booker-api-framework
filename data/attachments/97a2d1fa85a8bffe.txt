@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"James","lastname":"Manning","totalprice":823,"depositpaid":false,"bookingdates":{"checkin":"2026-10-08","checkout":"2026-10-09"},"additionalneeds":"Wi-Fi"}

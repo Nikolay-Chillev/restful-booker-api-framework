@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4674,"booking":{"firstname":"Amy","lastname":"Montes","totalprice":917,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"None"}}

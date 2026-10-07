@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":796,"booking":{"firstname":"Lindsay","lastname":"Brooks","totalprice":1269,"depositpaid":true,"bookingdates":{"checkin":"2026-10-23","checkout":"2026-10-24"},"additionalneeds":"Breakfast"}}

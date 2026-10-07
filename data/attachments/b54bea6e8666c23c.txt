@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"James","lastname":"Gonzalez","totalprice":161,"depositpaid":true,"bookingdates":{"checkin":"2026-10-15","checkout":"2026-10-27"},"additionalneeds":"Parking"}

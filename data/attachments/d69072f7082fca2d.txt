@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":841,"booking":{"firstname":"Raymond","lastname":"Mcdonald","totalprice":550,"depositpaid":false,"bookingdates":{"checkin":"2026-10-18","checkout":"2026-10-22"},"additionalneeds":"Parking"}}

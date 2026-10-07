@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4538,"booking":{"firstname":"Jose Luis","lastname":"Whitehead","totalprice":837,"depositpaid":true,"bookingdates":{"checkin":"2026-10-19","checkout":"2026-11-02"},"additionalneeds":"Parking"}}

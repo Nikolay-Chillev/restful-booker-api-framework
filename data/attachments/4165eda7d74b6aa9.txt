@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":4596,"booking":{"firstname":"Maria","lastname":"Pierce","totalprice":300,"depositpaid":false,"bookingdates":{"checkin":"2026-11-01","checkout":"2026-11-05"},"additionalneeds":"Wi-Fi"}}
