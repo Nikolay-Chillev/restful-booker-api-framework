@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Thomas","lastname":"Richardson","totalprice":1239,"depositpaid":false,"bookingdates":{"checkin":"2026-10-22","checkout":"2026-10-25"},"additionalneeds":"Breakfast"}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2958,"booking":{"firstname":"Tracy","lastname":"Smith","totalprice":429,"depositpaid":true,"bookingdates":{"checkin":"2026-10-30","checkout":"2026-11-12"},"additionalneeds":"Parking"}}

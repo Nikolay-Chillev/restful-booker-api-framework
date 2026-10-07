@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2941,"booking":{"firstname":"Jennifer","lastname":"Owens","totalprice":1300,"depositpaid":true,"bookingdates":{"checkin":"2026-11-01","checkout":"2026-11-02"},"additionalneeds":"Breakfast"}}

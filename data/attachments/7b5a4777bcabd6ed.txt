@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2961,"booking":{"firstname":"Mark","lastname":"Mccullough","totalprice":471,"depositpaid":false,"bookingdates":{"checkin":"2026-10-25","checkout":"2026-11-02"},"additionalneeds":"Wi-Fi"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2953,"booking":{"firstname":"Tiffany","lastname":"Zimmerman","totalprice":623,"depositpaid":false,"bookingdates":{"checkin":"2026-11-03","checkout":"2026-11-13"},"additionalneeds":"Breakfast"}}

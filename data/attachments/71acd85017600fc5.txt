@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2976,"booking":{"firstname":"David","lastname":"Parks","totalprice":62,"depositpaid":false,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"Dinner"}}

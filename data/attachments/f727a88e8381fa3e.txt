@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2895,"booking":{"firstname":"Elijah","lastname":"Pena","totalprice":625,"depositpaid":true,"bookingdates":{"checkin":"2026-10-11","checkout":"2026-10-11"},"additionalneeds":"Wi-Fi"}}

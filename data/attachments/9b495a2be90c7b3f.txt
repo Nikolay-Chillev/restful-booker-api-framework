@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2922,"booking":{"firstname":"Joy","lastname":"Sherman","totalprice":1280,"depositpaid":true,"bookingdates":{"checkin":"2026-10-16","checkout":"2026-10-17"},"additionalneeds":"Parking"}}

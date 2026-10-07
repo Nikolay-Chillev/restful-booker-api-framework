@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2973,"booking":{"firstname":"Charles","lastname":"Mcmahon","totalprice":306,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-24"},"additionalneeds":"None"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2928,"booking":{"firstname":"Justin","lastname":"Carter","totalprice":314,"depositpaid":false,"bookingdates":{"checkin":"2026-10-16","checkout":"2026-10-29"},"additionalneeds":"Parking"}}

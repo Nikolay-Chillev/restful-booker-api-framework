@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2907,"booking":{"firstname":"Paige","lastname":"Waller","totalprice":1255,"depositpaid":false,"bookingdates":{"checkin":"2026-10-09","checkout":"2026-10-11"},"additionalneeds":"Wi-Fi"}}

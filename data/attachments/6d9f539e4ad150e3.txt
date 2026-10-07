@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2930,"booking":{"firstname":"George","lastname":"Schmidt","totalprice":1206,"depositpaid":false,"bookingdates":{"checkin":"2026-10-14","checkout":"2026-10-24"},"additionalneeds":"None"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":4581,"booking":{"firstname":"Sandra","lastname":"Hernandez","totalprice":1264,"depositpaid":true,"bookingdates":{"checkin":"2026-10-08","checkout":"2026-10-14"},"additionalneeds":"Wi-Fi"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2902,"booking":{"firstname":"Melissa","lastname":"Washington","totalprice":180,"depositpaid":false,"bookingdates":{"checkin":"2026-10-20","checkout":"2026-10-24"},"additionalneeds":"Dinner"}}

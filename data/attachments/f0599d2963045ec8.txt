@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Michael","lastname":"Davis","totalprice":1275,"depositpaid":false,"bookingdates":{"checkin":"2026-10-19","checkout":"2026-11-01"},"additionalneeds":"Wi-Fi"}

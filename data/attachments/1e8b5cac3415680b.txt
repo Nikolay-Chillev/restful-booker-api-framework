@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2924,"booking":{"firstname":"Brandon","lastname":"Jacobs","totalprice":251,"depositpaid":true,"bookingdates":{"checkin":"2026-10-27","checkout":"2026-11-06"},"additionalneeds":"Dinner"}}

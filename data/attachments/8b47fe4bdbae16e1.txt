@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2935,"booking":{"firstname":"James","lastname":"Webster","totalprice":1040,"depositpaid":true,"bookingdates":{"checkin":"2026-10-08","checkout":"2026-10-20"},"additionalneeds":"Breakfast"}}

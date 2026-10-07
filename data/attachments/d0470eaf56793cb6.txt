@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2951,"booking":{"firstname":"Barbara","lastname":"Hunt","totalprice":359,"depositpaid":true,"bookingdates":{"checkin":"2026-10-21","checkout":"2026-10-27"},"additionalneeds":"Dinner"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":4583,"booking":{"firstname":"Brian","lastname":"Herrera","totalprice":465,"depositpaid":false,"bookingdates":{"checkin":"2026-10-28","checkout":"2026-11-06"},"additionalneeds":"Lunch"}}

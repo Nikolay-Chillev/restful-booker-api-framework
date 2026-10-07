@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":4634,"booking":{"firstname":"Anna","lastname":"Campbell","totalprice":644,"depositpaid":false,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-24"},"additionalneeds":"None"}}

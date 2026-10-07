@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2882,"booking":{"firstname":"David","lastname":"Ibarra","totalprice":1,"depositpaid":true,"bookingdates":{"checkin":"2026-10-17","checkout":"2026-10-31"},"additionalneeds":"Parking"}}

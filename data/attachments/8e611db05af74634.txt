@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":4555,"booking":{"firstname":"Kenneth","lastname":"Hall","totalprice":1166,"depositpaid":false,"bookingdates":{"checkin":"2026-10-24","checkout":"2026-11-07"},"additionalneeds":"Parking"}}

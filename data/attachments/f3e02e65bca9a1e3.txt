@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3000,"booking":{"firstname":"Autumn","lastname":"Gentry","totalprice":404,"depositpaid":false,"bookingdates":{"checkin":"2026-10-25","checkout":"2026-10-28"},"additionalneeds":"None"}}

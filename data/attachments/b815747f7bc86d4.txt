@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"'; DROP TABLE bookings; --","lastname":"Woods","totalprice":1184,"depositpaid":true,"bookingdates":{"checkin":"2026-10-18","checkout":"2026-11-01"},"additionalneeds":"Breakfast"}

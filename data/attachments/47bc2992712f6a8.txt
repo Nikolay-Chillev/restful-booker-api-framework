@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2970,"booking":{"firstname":"SearchTestUser","lastname":"Baker","totalprice":439,"depositpaid":true,"bookingdates":{"checkin":"2026-10-27","checkout":"2026-10-31"},"additionalneeds":"Lunch"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2946,"booking":{"firstname":"Robert","lastname":"Rivera","totalprice":117,"depositpaid":true,"bookingdates":{"checkin":"2026-10-25","checkout":"2026-10-31"},"additionalneeds":"Lunch"}}

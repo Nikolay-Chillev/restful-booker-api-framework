@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2893,"booking":{"firstname":"Muller","lastname":"Cooper","totalprice":1481,"depositpaid":true,"bookingdates":{"checkin":"2026-10-26","checkout":"2026-11-05"},"additionalneeds":"Parking"}}

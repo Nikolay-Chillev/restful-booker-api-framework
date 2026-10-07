@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"OnlyThisChanged","lastname":"Gillespie","totalprice":1493,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-12"},"additionalneeds":"None"}

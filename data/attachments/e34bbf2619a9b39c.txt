@@ -1,0 +1,8 @@
+2026-10-07 11:16:22 | INFO     | tests.conftest | Obtaining auth token for test module
+2026-10-07 11:16:22 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/auth
+2026-10-07 11:16:22 | INFO     | api_clients.base_client | Response: 200 (0.03s)
+2026-10-07 11:16:22 | INFO     | api_clients.auth_client | Authentication successful, token obtained
+2026-10-07 11:16:22 | INFO     | api_clients.base_client | POST https://restful-booker.herokuapp.com/booking
+2026-10-07 11:16:22 | INFO     | api_clients.base_client | Response: 200 (0.03s)
+2026-10-07 11:16:22 | INFO     | api_clients.base_client | DELETE https://restful-booker.herokuapp.com/booking/2921
+2026-10-07 11:16:22 | INFO     | api_clients.base_client | Response: 201 (0.04s)

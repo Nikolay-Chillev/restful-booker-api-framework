@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2898,"booking":{"firstname":"Yvette","lastname":"Flores","totalprice":1187,"depositpaid":true,"bookingdates":{"checkin":"2020-01-01","checkout":"2020-01-05"},"additionalneeds":"Breakfast"}}

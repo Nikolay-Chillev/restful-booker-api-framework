@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2971,"booking":{"firstname":"SearchTestUser","lastname":"Moore","totalprice":160,"depositpaid":false,"bookingdates":{"checkin":"2026-10-26","checkout":"2026-11-01"},"additionalneeds":"None"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2927,"booking":{"firstname":"John","lastname":"Aguirre","totalprice":414,"depositpaid":true,"bookingdates":{"checkin":"2026-10-19","checkout":"2026-10-30"},"additionalneeds":"None"}}

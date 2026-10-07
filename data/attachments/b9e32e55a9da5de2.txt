@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2887,"booking":{"firstname":"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA","lastname":"Fisher","totalprice":1348,"depositpaid":true,"bookingdates":{"checkin":"2026-10-30","checkout":"2026-10-31"},"additionalneeds":"Parking"}}

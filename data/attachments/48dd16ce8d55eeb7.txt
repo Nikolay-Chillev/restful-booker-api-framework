@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2917,"booking":{"firstname":"Mark","lastname":"Whitehead","totalprice":1241,"depositpaid":true,"bookingdates":{"checkin":"2026-11-05","checkout":"2026-11-14"},"additionalneeds":"Breakfast"}}

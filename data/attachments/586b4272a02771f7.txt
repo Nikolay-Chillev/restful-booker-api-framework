@@ -1,3 +1,0 @@
-POST https://restful-booker.herokuapp.com/booking
-Time: 0.03s
-Body: {'firstname': "'; DROP TABLE bookings; --", 'lastname': 'Cisneros', 'totalprice': 1140, 'depositpaid': False, 'bookingdates': {'checkin': '2026-10-17', 'checkout': '2026-10-25'}, 'additionalneeds': 'Breakfast'}

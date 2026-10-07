@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":2889,"booking":{"firstname":"O'Brien","lastname":"Weaver","totalprice":1206,"depositpaid":false,"bookingdates":{"checkin":"2026-10-30","checkout":"2026-11-05"},"additionalneeds":"Breakfast"}}
