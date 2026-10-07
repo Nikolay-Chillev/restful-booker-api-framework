@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":3300,"booking":{"firstname":"Laura","lastname":"King","totalprice":712,"depositpaid":true,"bookingdates":{"checkin":"2026-10-22","checkout":"2026-11-04"},"additionalneeds":"Dinner"}}

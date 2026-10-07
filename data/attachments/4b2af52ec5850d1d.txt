@@ -1,2 +1,0 @@
-Status: 200
-Body: {"firstname":"Robert","lastname":"Ruiz","totalprice":1129,"depositpaid":true,"bookingdates":{"checkin":"2026-10-19","checkout":"2026-10-28"},"additionalneeds":"Dinner"}

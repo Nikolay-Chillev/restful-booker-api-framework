@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":733,"booking":{"firstname":"Mary-Jane","lastname":"Solis","totalprice":1151,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-17"},"additionalneeds":"Lunch"}}

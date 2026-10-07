@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":815,"booking":{"firstname":"Scott","lastname":"Fields","totalprice":414,"depositpaid":false,"bookingdates":{"checkin":"2026-11-02","checkout":"2026-11-14"},"additionalneeds":"Dinner"}}

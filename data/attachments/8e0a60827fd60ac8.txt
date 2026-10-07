@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":3240,"booking":{"firstname":"John","lastname":"Kennedy","totalprice":1147,"depositpaid":false,"bookingdates":{"checkin":"2026-10-30","checkout":"2026-10-31"},"additionalneeds":"Wi-Fi"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":831,"booking":{"firstname":"Debra","lastname":"Ingram","totalprice":597,"depositpaid":false,"bookingdates":{"checkin":"2026-10-27","checkout":"2026-11-06"},"additionalneeds":"None"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":877,"booking":{"firstname":"<script>alert('xss')</script>","lastname":"Miller","totalprice":781,"depositpaid":false,"bookingdates":{"checkin":"2026-11-05","checkout":"2026-11-12"},"additionalneeds":"Breakfast"}}

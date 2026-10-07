@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":695,"booking":{"firstname":"Jimmy","lastname":"Powell","totalprice":430,"depositpaid":true,"bookingdates":{"checkin":"2026-11-03","checkout":"2026-11-04"},"additionalneeds":"Wi-Fi"}}

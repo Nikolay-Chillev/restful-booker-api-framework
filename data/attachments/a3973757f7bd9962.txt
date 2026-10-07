@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":751,"booking":{"firstname":"Brandon","lastname":"Williams","totalprice":1325,"depositpaid":false,"bookingdates":{"checkin":"2026-11-03","checkout":"2026-11-14"},"additionalneeds":"Lunch"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":3319,"booking":{"firstname":"Amanda","lastname":"Haynes","totalprice":311,"depositpaid":false,"bookingdates":{"checkin":"2026-10-13","checkout":"2026-10-14"},"additionalneeds":"Lunch"}}

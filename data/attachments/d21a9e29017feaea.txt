@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":741,"booking":{"firstname":"Jacqueline","lastname":"Butler","totalprice":775,"depositpaid":true,"bookingdates":{"checkin":"2020-01-01","checkout":"2020-01-05"},"additionalneeds":"Parking"}}

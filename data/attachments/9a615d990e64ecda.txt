@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":770,"booking":{"firstname":"Elizabeth","lastname":"Watson","totalprice":944,"depositpaid":false,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-20"},"additionalneeds":"Wi-Fi"}}

@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":3358,"booking":{"firstname":"Jonathan","lastname":"Gibson","totalprice":235,"depositpaid":true,"bookingdates":{"checkin":"0NaN-aN-aN","checkout":"0NaN-aN-aN"},"additionalneeds":"None"}}

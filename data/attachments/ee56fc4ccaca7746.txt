@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":870,"booking":{"firstname":"Bruce","lastname":"Pacheco","totalprice":null,"depositpaid":true,"bookingdates":{"checkin":"2026-10-17","checkout":"2026-10-31"},"additionalneeds":"Lunch"}}

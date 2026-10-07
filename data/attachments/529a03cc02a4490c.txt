@@ -1,2 +1,0 @@
-Status: 200
-Body: {"bookingid":3188,"booking":{"firstname":"A","lastname":"Brown","totalprice":904,"depositpaid":true,"bookingdates":{"checkin":"2026-10-18","checkout":"2026-10-30"},"additionalneeds":"Dinner"}}

@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":704,"booking":{"firstname":"Amanda","lastname":"Jordan","totalprice":687,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-14"},"additionalneeds":"Breakfast"}}
