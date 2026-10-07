@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3272,"booking":{"firstname":"Nancy","lastname":"Crane","totalprice":431,"depositpaid":false,"bookingdates":{"checkin":"2026-10-22","checkout":"2026-10-27"},"additionalneeds":"Dinner"}}

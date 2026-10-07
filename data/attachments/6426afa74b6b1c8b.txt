@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3220,"booking":{"firstname":"Jose","lastname":"Kemp","totalprice":257,"depositpaid":false,"bookingdates":{"checkin":"2026-10-26","checkout":"2026-11-02"},"additionalneeds":"Parking"}}

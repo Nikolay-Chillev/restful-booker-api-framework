@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Mary","lastname":"Campbell","totalprice":524,"depositpaid":true,"bookingdates":{"checkin":"2026-10-09","checkout":"2026-10-18"},"additionalneeds":"None"}

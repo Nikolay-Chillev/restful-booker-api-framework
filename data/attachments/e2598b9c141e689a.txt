@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Pamela","lastname":"Warner","totalprice":733,"depositpaid":true,"bookingdates":{"checkin":"2026-10-25","checkout":"2026-10-28"},"additionalneeds":"None"}

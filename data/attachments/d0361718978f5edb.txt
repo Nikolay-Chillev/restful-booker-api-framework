@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"PatchedName","lastname":"Caldwell","totalprice":1234,"depositpaid":false,"bookingdates":{"checkin":"2026-11-05","checkout":"2026-11-18"},"additionalneeds":"Breakfast"}

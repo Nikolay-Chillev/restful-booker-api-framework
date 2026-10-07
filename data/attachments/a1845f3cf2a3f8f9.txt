@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3360,"booking":{"firstname":"Joseph","lastname":"French","totalprice":null,"depositpaid":true,"bookingdates":{"checkin":"2026-10-10","checkout":"2026-10-15"},"additionalneeds":"Parking"}}

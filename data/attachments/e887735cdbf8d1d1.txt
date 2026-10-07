@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3388,"booking":{"firstname":"Jeremy","lastname":"Clark","totalprice":1391,"depositpaid":true,"bookingdates":{"checkin":"2026-10-28","checkout":"2026-11-06"},"additionalneeds":"Breakfast"}}

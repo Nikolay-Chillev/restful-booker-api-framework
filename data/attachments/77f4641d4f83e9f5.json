@@ -1,0 +1,14 @@
+{
+  "bookingid": 3334,
+  "booking": {
+    "firstname": "Kimberly",
+    "lastname": "Mitchell",
+    "totalprice": 459,
+    "depositpaid": false,
+    "bookingdates": {
+      "checkin": "2026-10-31",
+      "checkout": "2026-11-01"
+    },
+    "additionalneeds": "Wi-Fi"
+  }
+}

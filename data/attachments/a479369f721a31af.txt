@@ -1,3 +1,0 @@
-INFO     api_clients.base_client:base_client.py:36 POST https://restful-booker.herokuapp.com/auth
-INFO     api_clients.base_client:base_client.py:51 Response: 200 (0.04s)
-INFO     api_clients.auth_client:auth_client.py:47 Authentication successful, token obtained

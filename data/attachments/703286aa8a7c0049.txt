@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"'; DROP TABLE bookings; --","lastname":"Byrd","totalprice":1401,"depositpaid":true,"bookingdates":{"checkin":"2026-10-13","checkout":"2026-10-27"},"additionalneeds":"Wi-Fi"}

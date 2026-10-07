@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3185,"booking":{"firstname":"Patricia","lastname":"Cole","totalprice":1,"depositpaid":false,"bookingdates":{"checkin":"2026-10-11","checkout":"2026-10-20"},"additionalneeds":"Wi-Fi"}}

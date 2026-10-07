@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3257,"booking":{"firstname":"Andrea","lastname":"Mcdowell","totalprice":773,"depositpaid":true,"bookingdates":{"checkin":"2026-10-27","checkout":"2026-10-31"},"additionalneeds":"Parking"}}

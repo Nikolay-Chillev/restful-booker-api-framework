@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3209,"booking":{"firstname":"David","lastname":"Green","totalprice":1076,"depositpaid":true,"bookingdates":{"checkin":"2020-01-01","checkout":"2020-01-05"},"additionalneeds":"Parking"}}

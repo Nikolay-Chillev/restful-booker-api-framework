@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3165,"booking":{"firstname":"Gregory","lastname":"Wood","totalprice":315,"depositpaid":true,"bookingdates":{"checkin":"2026-10-30","checkout":"2026-11-06"},"additionalneeds":"Wi-Fi"}}

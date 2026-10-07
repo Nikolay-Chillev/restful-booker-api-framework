@@ -1,0 +1,2 @@
+Status: 200
+Body: {"firstname":"Sarah","lastname":"Macdonald","totalprice":451,"depositpaid":true,"bookingdates":{"checkin":"2026-10-07","checkout":"2026-10-15"},"additionalneeds":"Lunch"}

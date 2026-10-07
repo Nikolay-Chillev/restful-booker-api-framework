@@ -1,0 +1,2 @@
+Status: 200
+Body: {"bookingid":3169,"booking":{"firstname":"Melissa","lastname":"Garcia","totalprice":539,"depositpaid":true,"bookingdates":{"checkin":"2026-10-11","checkout":"2026-10-24"},"additionalneeds":"Breakfast"}}
