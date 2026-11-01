@@ -51,7 +51,7 @@ jobs:
 
       - name: Upload Allure results
         if: always()
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: allure-results-py${{ matrix.python-version }}
           path: allure-results/
@@ -59,7 +59,7 @@ jobs:
 
       - name: Upload test logs
         if: failure()
-        uses: actions/upload-artifact@v6
+        uses: actions/upload-artifact@v7
         with:
           name: test-logs-py${{ matrix.python-version }}
           path: |
@@ -79,7 +79,7 @@ jobs:
         uses: actions/checkout@v7
 
       - name: Download Allure results from Python 3.12
-        uses: actions/download-artifact@v7
+        uses: actions/download-artifact@v8
         with:
           name: allure-results-py3.12
           path: allure-results
